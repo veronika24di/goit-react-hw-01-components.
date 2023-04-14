@@ -8,6 +8,7 @@ export const StatisticsItem =styled.div`
     border: 1px solid black;
 `;
     
+
 //  StatList ul Stat_list  
 export const StatList = styled.ul`
     height: 60px;
@@ -23,6 +24,7 @@ export const StatList = styled.ul`
 export const StatItem = styled.li`
     border: solid 1px black;
     background-color: coral;
+    padding:8.2px;
 `;   
 
 // StatLabel class="label"
